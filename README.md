@@ -1,13 +1,13 @@
-# Asset Insights - Andriod Developer Coding Test
+# Asset Insights - Android Developer Coding Test
 
 ## Prerequisites
 
 You will need:
-    - Andriod studio / IntelliJ
+    - Android studio / IntelliJ
 
 ## Task
 
-1) Create a new blank project with an an Empty Activity template in Andriod Studio (Just use the latest Andriod version installed on your machine)
+1) Create a new blank project with an an Empty Activity template in Android Studio (Just use the latest Android version installed on your machine)
 2) Create a API request that pulls back a cat fact from this open source API https://catfact.ninja/fact (if you go to https://catfact.ninja in your browser you should be able to see the schema)
 3) Create a view which displays the fact
 4) Add a button to your view which will get a new fact each time and display it in the view
