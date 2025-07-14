@@ -3,7 +3,7 @@
 ## Prerequisites
 
 You will need:
-    - Android studio / IntelliJ
+- Android studio / IntelliJ
 
 ## Task
 
