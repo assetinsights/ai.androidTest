@@ -12,7 +12,7 @@ You will need:
 3) Create a view which displays the fact
 4) Add a button to your view which will get a new fact each time and display it in the view
 
-**BONUS:** If time allows pre cache your cat fact on each button click. For example - You cat fact should come from the cache and in the background get a new cat fact for the next time it is clicked.
+**BONUS:** If time allows pre cache your cat fact on each button click. For example - Your cat fact should come from the cache and in the background get a new cat fact for the next time it is clicked.
 
 ## Bits of Advice
  - Take your time and feel free to ask questions at any point
